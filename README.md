@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [TRC20 related functions in golang](https://github.com/spcily/trc20)<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning System Design and Cryptography<br>💬 Ask me about anything related to app development<br>⚡ Fun fact
+🔭 I’m currently working on [a TRC20 package in golang](https://github.com/spcily/trc20)<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning System Design and Cryptography<br>💬 Ask me about anything related to app development<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
