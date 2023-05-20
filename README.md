@@ -1,7 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently moving to **Golang**
-
-📚 I'm currently reading [Designing Data Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
+🌱 I’m currently using **Golang**
 
 ## Socials: 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ppcitysp)
